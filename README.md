@@ -1,4 +1,4 @@
-# Amazon Clone
+# CUET Online Stationery Shop
 
 Build a functional Amazon Clone with the cross-platform framework, Flutter, with the backend as Firebase- Works on Android and Web
 
